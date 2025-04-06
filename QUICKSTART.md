@@ -20,7 +20,7 @@ This guide provides the minimal steps needed to get your US AI Bird Cam up and r
 
 1. **Download the project:**
    ```bash
-   git clone https://github.com/username/us-ai-bird-cam.git
+   git clone https://github.com/DevelopmentCats/ai-birdcam.git
    cd us-ai-bird-cam
    ```
 
