@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.19.0
+pillow>=8.0.0
+opencv-python>=4.5.0
+tensorflow>=2.5.0
+tflite-runtime>=2.5.0
+picamera2>=0.3.8
+
+# Image processing
+scikit-image>=0.18.0
+matplotlib>=3.3.0
+
+# Utilities
+requests>=2.25.0
+pyyaml>=5.4.0
+tqdm>=4.60.0
+
+# Optional: for audio-based identification
+librosa>=0.8.0
+sounddevice>=0.4.1
+
+# Optional: for web interface
+flask>=2.0.0
